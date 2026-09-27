@@ -4,7 +4,7 @@
 
 Upload your domain documents and gold questions, pick a domain (Healthcare, Legal, or Finance), and DocTune races **16 pre-set RAG configurations** in parallel, scores every answer with the domain-weighted **DHS metric** (from TriDomRAG-Bench research), and returns a graded, deployable recommendation.
 
-> Made by **Abhinav Mishra** · Built for the **BuildSpirit** hackathon
+> Made by **Abhinav Mishra** ·
 
 ---
 
